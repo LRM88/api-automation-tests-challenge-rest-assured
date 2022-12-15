@@ -1,0 +1,7 @@
+# api-automation-tests-challenge-rest-assured
+Repositório de acompanhamento para projeto de automação de testes com RestAssured.
+
+Neste projeto exploraremos o framework RestAssuranve + JUnit e a geração de reports
+com o Allure Framework.
+Além disso também usaremos Json Server para simular uma API. 
+
